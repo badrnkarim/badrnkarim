@@ -1,5 +1,5 @@
 # Badr Karim
-**Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Compliance**
+**Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Audit-Ready Evidence**
 
 **Risk-first GRC.** I assess impact, prioritize exposure, and support **control decisions** with defensible documentation and evidence discipline.
 
