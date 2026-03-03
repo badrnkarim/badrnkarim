@@ -6,9 +6,9 @@
 ---
 
 ## Quick Proof
-- **US Privacy + Cloud TPRM Portfolio:** https://github.com/badrnkarim/TPRM-US-Privacy-Cloud  
-- **Primary Portfolio (Multi-Framework GRC):** https://github.com/badrnkarim/grc-portfolio-sdg  
-- **ISO 27001 ISMS Portfolio (Audit-Grade):** https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio  
+- **TPRM (US Privacy + Cloud):** https://github.com/badrnkarim/TPRM-US-Privacy-Cloud  
+- **Multi-Framework GRC Portfolio (SDG):** https://github.com/badrnkarim/grc-portfolio-sdg  
+- **ISO 27001 ISMS Portfolio:** https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio  
 - **LinkedIn:** https://www.linkedin.com/in/badrkarim/
 
 ---
@@ -18,38 +18,40 @@
 ### 1) TPRM — US Privacy + Cloud Data Protection (Audit-Ready Program Portfolio)
 **Repo:** https://github.com/badrnkarim/TPRM-US-Privacy-Cloud
 
-A complete **Third-Party Risk Management** program pack focused on **US privacy obligations** and **cloud vendor data protection**, built with **evidence discipline** and **business-ready decision artifacts**.
+A complete **Third-Party Risk Management (TPRM)** program pack focused on **US privacy obligations** and **cloud vendor data protection**, built with evidence discipline and decision-maker artifacts.
 
-**What stands out as you review it:**
+**What it demonstrates:**
 - Privacy-heavy vendor governance: **purpose limitation**, **minimization**, **retention/deletion**, **DSAR readiness**
 - **Subprocessor governance** and change review workflow
 - **Residual risk scoring** tied to control maturity + evidence confidence
-- Audit-ready evidence system (**EV-INDEX + artifact files**) and remediation tracking
-- Decision-maker layer: **Executive Decision Brief**, **Approval Authority Matrix**, **Risk Committee brief**
+- Audit-ready evidence system (**EV-INDEX + evidence artifacts**) and remediation tracking
+- Business decision layer: **Executive Decision Brief**, **Approval Authority Matrix**, **Risk Committee brief**
 
 ---
 
-### 2) SDG GRC Portfolio — Multi-Framework Assurance (Primary)
+### 2) SDG GRC Portfolio — Multi-Framework Assurance (Primary GRC Portfolio)
 **Repo:** https://github.com/badrnkarim/grc-portfolio-sdg
 
-This repository represents my strongest GRC work. It is built around **risk-based controls** and mapped across:  
+A multi-framework assurance portfolio organized around **risk-based controls** and mapped across:  
 **COBIT • NIST CSF 2.0 • ISO 27000 family • ISO 31000 • SOC 2 • ISO 37301**
 
-**What stands out as you review it:**
-- A **risk → control** structure (impact-driven, not checklist-driven)
-- Cross-framework alignment that avoids duplication and improves coverage
-- Assurance-style organization designed for **audit review and decision support**
-- Evidence mindset: everything is written to be **verifiable and reviewable**
+**What it demonstrates:**
+- Risk → control alignment (impact-driven, not checklist-driven)
+- Cross-framework mapping that reduces redundancy and improves coverage
+- Assurance-style structure built for audit review and decision support
+- Evidence mindset: controls are written to be **testable, reviewable, and traceable**
 
 ---
 
 ### 3) ISO/IEC 27001 ISMS Portfolio — Audit-Grade Documentation Pack
 **Repo:** https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio
 
-This portfolio demonstrates **ISO 27001-aligned ISMS documentation**, structured for audit readiness:
-- Governance documentation discipline
-- Risk handling logic and traceability
-- Evidence indexing mindset (proof-first structure)
+An ISMS documentation portfolio structured for audit readiness and assurance review.
+
+**What it demonstrates:**
+- ISMS governance artifacts and disciplined documentation structure
+- Risk handling logic and traceability (risk → controls → evidence)
+- Evidence indexing mindset (proof-first organization)
 - Internal audit / CAPA mindset (findings → remediation → verification)
 
 ---
@@ -57,10 +59,11 @@ This portfolio demonstrates **ISO 27001-aligned ISMS documentation**, structured
 ## What I Do (Intern Scope, Strong Output)
 I work like an assurance analyst: clear logic, clean traceability, and evidence-ready outputs.
 
-- **Risk assessment support:** identify threats, likelihood, and **business impact**
-- **Risk-based controls:** support selecting controls based on **impact and control value**
-- **Framework mapping:** align one control set across multiple frameworks to maximize coverage
-- **Assurance documentation:** structure tests + evidence so work survives review
+- **Risk assessment support:** document threats, likelihood, and business impact to prioritize risk
+- **Risk-based controls:** support selecting controls based on impact and control value
+- **Vendor risk (TPRM):** support privacy/security requirements (retention/deletion, DSAR readiness, subprocessors) with enforceable evidence
+- **Framework mapping:** align one control set across frameworks to maximize coverage
+- **Assurance documentation:** structure tests + evidence so decisions survive review
 
 ---
 
@@ -72,10 +75,11 @@ I work like an assurance analyst: clear logic, clean traceability, and evidence-
 
 ---
 
-## Framework Coverage (Compact)
-- **Governance:** COBIT
+## Coverage Focus (Compact)
+- **Vendor risk & privacy operations:** purpose limitation, minimization, retention/deletion, DSAR readiness, subprocessors (TPRM)
+- **Governance & control objectives:** COBIT
 - **Security outcomes:** NIST CSF 2.0
-- **ISMS & controls:** ISO 27001/27002 (+ risk approach ISO 27005)
+- **ISMS & controls:** ISO 27001/27002 (+ ISO 27005 risk approach)
 - **Enterprise risk:** ISO 31000
 - **Assurance reporting:** SOC 2
 - **Compliance systems:** ISO 37301
