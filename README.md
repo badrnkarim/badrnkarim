@@ -6,6 +6,7 @@ Risk-first GRC. I translate business impact into risk-based controls and evidenc
 ---
 
 ## Quick Proof
+- **Portfolio Index (Start Here):** https://github.com/badrnkarim/portfolio-index  
 - **TPRM (US Privacy + Cloud):** https://github.com/badrnkarim/TPRM-US-Privacy-Cloud  
 - **Multi-Framework GRC Portfolio (SDG):** https://github.com/badrnkarim/grc-portfolio-sdg  
 - **ISO 27001 ISMS Portfolio:** https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio  
