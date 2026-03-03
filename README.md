@@ -6,6 +6,7 @@
 ---
 
 ## Quick Proof
+- **US Privacy + Cloud TPRM Portfolio:** https://github.com/badrnkarim/TPRM-US-Privacy-Cloud  
 - **Primary Portfolio (Multi-Framework GRC):** https://github.com/badrnkarim/grc-portfolio-sdg  
 - **ISO 27001 ISMS Portfolio (Audit-Grade):** https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio  
 - **LinkedIn:** https://www.linkedin.com/in/badrkarim/
@@ -14,7 +15,21 @@
 
 ## Featured Work
 
-### 1) SDG GRC Portfolio — Multi-Framework Assurance (Primary)
+### 1) TPRM — US Privacy + Cloud Data Protection (Audit-Ready Program Portfolio)
+**Repo:** https://github.com/badrnkarim/TPRM-US-Privacy-Cloud
+
+A complete **Third-Party Risk Management** program pack focused on **US privacy obligations** and **cloud vendor data protection**, built with **evidence discipline** and **business-ready decision artifacts**.
+
+**What stands out as you review it:**
+- Privacy-heavy vendor governance: **purpose limitation**, **minimization**, **retention/deletion**, **DSAR readiness**
+- **Subprocessor governance** and change review workflow
+- **Residual risk scoring** tied to control maturity + evidence confidence
+- Audit-ready evidence system (**EV-INDEX + artifact files**) and remediation tracking
+- Decision-maker layer: **Executive Decision Brief**, **Approval Authority Matrix**, **Risk Committee brief**
+
+---
+
+### 2) SDG GRC Portfolio — Multi-Framework Assurance (Primary)
 **Repo:** https://github.com/badrnkarim/grc-portfolio-sdg
 
 This repository represents my strongest GRC work. It is built around **risk-based controls** and mapped across:  
@@ -28,7 +43,7 @@ This repository represents my strongest GRC work. It is built around **risk-base
 
 ---
 
-### 2) ISO/IEC 27001 ISMS Portfolio — Audit-Grade Documentation Pack
+### 3) ISO/IEC 27001 ISMS Portfolio — Audit-Grade Documentation Pack
 **Repo:** https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio
 
 This portfolio demonstrates **ISO 27001-aligned ISMS documentation**, structured for audit readiness:
