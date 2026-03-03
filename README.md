@@ -2,6 +2,7 @@
 **Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Privacy-Driven TPRM**
 
 Risk-first GRC. I translate business impact into risk-based controls and evidence-backed vendor decisions, strengthening third-party risk (TPRM) and US privacy-focused vendor governance.
+
 ---
 
 ## Quick Proof
